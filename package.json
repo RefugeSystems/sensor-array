@@ -1,0 +1,23 @@
+{
+  "name": "sensor-array",
+  "version": "0.0.1",
+  "description": "JAvascript library for monitoring applications locally or remote\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RefugeSystems/sensor-array.git"
+  },
+  "keywords": [
+    "monitor",
+    "log"
+  ],
+  "author": "aetherwalker@refugesystems.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RefugeSystems/sensor-array/issues"
+  },
+  "homepage": "https://github.com/RefugeSystems/sensor-array#readme"
+}
