@@ -43,3 +43,7 @@ reports
 passport.json
 local.json
 x-*.js
+
+# Ignore the local app development for experimenting
+app
+app/*

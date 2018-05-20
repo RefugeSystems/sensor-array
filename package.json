@@ -1,23 +1,42 @@
 {
-  "name": "sensor-array",
-  "version": "0.0.1",
-  "description": "JAvascript library for monitoring applications locally or remote\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b",
-  "main": "index.js",
-  "scripts": {
-    "test": "grunt test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/RefugeSystems/sensor-array.git"
-  },
-  "keywords": [
-    "monitor",
-    "log"
-  ],
-  "author": "aetherwalker@refugesystems.net",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RefugeSystems/sensor-array/issues"
-  },
-  "homepage": "https://github.com/RefugeSystems/sensor-array#readme"
+	"name": "sensor-array",
+	"version": "0.0.1",
+	"description": "Javascript library for monitoring applications locally or remote\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b",
+	"main": "index.js",
+	"scripts": {
+		"test": "grunt test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/RefugeSystems/sensor-array.git"
+	},
+	"keywords": [
+		"monitor",
+		"log"
+	],
+	"author": {
+		"url": "https://refugesystems.net/#/profiles/aetherwalker",
+		"email": "aetherwalker@refugesystems.net",
+		"name": "Alexander Anderson"
+	},
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/RefugeSystems/sensor-array/issues"
+	},
+	"homepage": "https://github.com/RefugeSystems/sensor-array#readme",
+	"dependencies": {
+		"express": "^4.16.3",
+		"mongodb": "^3.1.0-beta4"
+	},
+	"devDependencies": {
+		"grunt": "^1.0.2",
+		"grunt-contrib-connect": "^1.0.2",
+		"grunt-contrib-watch": "^1.1.0",
+		"grunt-contrib-yuidoc": "^1.0.0",
+		"gruntify-eslint": "^4.0.0",
+		"jasmine": "^3.1.0",
+		"load-grunt-tasks": "^4.0.0",
+		"request": "^2.86.0",
+		"request-promise": "^4.2.2"
+	}
 }
