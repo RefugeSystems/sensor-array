@@ -25,8 +25,12 @@
 	},
 	"homepage": "https://github.com/RefugeSystems/sensor-array#readme",
 	"dependencies": {
-		"express": "^4.16.3",
-		"mongodb": "^3.1.0-beta4"
+		"a-configuration": "^1.1.1",
+		"bunyan": "^1.8.12",
+		"event-stream": "^3.3.4",
+		"glob": "^7.1.2",
+		"mongodb": "^3.1.0-beta4",
+		"root-require": "^0.3.1"
 	},
 	"devDependencies": {
 		"grunt": "^1.0.2",
