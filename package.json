@@ -19,7 +19,7 @@
 		"email": "aetherwalker@refugesystems.net",
 		"name": "Alexander Anderson"
 	},
-	"license": "ISC",
+	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/RefugeSystems/sensor-array/issues"
 	},
